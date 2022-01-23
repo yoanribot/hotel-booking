@@ -12,7 +12,6 @@ import type { AppProps } from "next/app";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
-      <Head></Head>
       <ChakraProvider>
         <Layout>
           <Component {...pageProps} />
