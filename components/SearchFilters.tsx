@@ -10,24 +10,42 @@ import {
   Button,
 } from "@chakra-ui/react";
 import { useRouter } from "next/router";
+import { filterData, getFilterValues } from "../services/filterData";
+import { fetchSearchAutoComplete } from "../services/propertiesApi";
+
 import { MdCancel } from "react-icons/md";
 import Image from "next/image";
 
-import { filterData, getFilterValues } from "../services/filterData";
-import { fetchApi } from "../services/propertiesApi";
+import type { FilterOption } from "../types";
 
-const baseUrl = process.env.PROPERTIES_API_BASE_URL;
 const noresult = "/assets/images/noresult.svg";
 
+type Location = { id: string; name: string; externalID: string };
+
 export default function SearchFilters() {
-  const [filters] = useState(filterData);
+  const [filters, setFilters] = useState(filterData);
   const [searchTerm, setSearchTerm] = useState("");
-  const [locationData, setLocationData] = useState();
+  const [locationData, setLocationData] = useState<Location[]>([]);
   const [showLocations, setShowLocations] = useState(false);
   const [loading, setLoading] = useState(false);
   const router = useRouter();
 
-  const searchProperties = (filterValues) => {
+  useEffect(() => {
+    if (searchTerm !== "") {
+      setLoading(true);
+
+      const fetch = async (search: string) => {
+        const data = await fetchSearchAutoComplete(search);
+
+        setLoading(false);
+        setLocationData(data?.hits);
+      };
+
+      fetch(searchTerm);
+    }
+  }, [searchTerm]);
+
+  const searchProperties = (filterValues: FilterOption) => {
     const path = router.pathname;
     const { query } = router;
 
@@ -39,23 +57,16 @@ export default function SearchFilters() {
       }
     });
 
-    router.push({ pathname: path, query: query });
+    router.push({ pathname: path, query });
   };
 
-  useEffect(() => {
-    if (searchTerm !== "") {
-      const fetchData = async () => {
-        setLoading(true);
-        const data = await fetchApi(
-          `${baseUrl}/auto-complete?query=${searchTerm}`
-        );
-        setLoading(false);
-        setLocationData(data?.hits);
-      };
-
-      fetchData();
-    }
-  }, [searchTerm]);
+  const selectLocation = (location: Location) => {
+    searchProperties({
+      locationExternalIDs: location.externalID,
+    });
+    setShowLocations(false);
+    setSearchTerm(location.name);
+  };
 
   return (
     <Flex bg="gray.100" p="4" justifyContent="center" flexWrap="wrap">
@@ -112,13 +123,7 @@ export default function SearchFilters() {
                 {locationData?.map((location) => (
                   <Box
                     key={location.id}
-                    onClick={() => {
-                      searchProperties({
-                        locationExternalIDs: location.externalID,
-                      });
-                      setShowLocations(false);
-                      setSearchTerm(location.name);
-                    }}
+                    onClick={() => selectLocation(location)}
                   >
                     <Text
                       cursor="pointer"
@@ -139,7 +144,7 @@ export default function SearchFilters() {
                     marginTop="5"
                     marginBottom="5"
                   >
-                    <Image src={noresult} />
+                    <Image src={noresult} width={200} height={200} />
                     <Text fontSize="xl" marginTop="3">
                       Waiting to search!
                     </Text>

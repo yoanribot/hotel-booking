@@ -8,11 +8,11 @@ import { BsFilter } from "react-icons/bs";
 import Property from "../components/Property";
 import SearchFilters from "../components/SearchFilters";
 
-import type { Property as TPropperty } from "../types";
+import type { Property as TPropperty, FilterOptions } from "../types";
 import Router from "next/router";
 
 const noresult = "/assets/images/noresult.svg";
-const baseUrl = process.env.PROPERTIES_API_BASE_URL;
+const baseUrl = process.env.NEXT_PUBLIC_PROPERTIES_API_BASE_URL;
 
 interface Props {
   properties: TPropperty[];
@@ -67,18 +67,7 @@ const Search = ({ properties }: Props) => {
 };
 
 interface Context {
-  query: {
-    purpose: string;
-    minPrice: string;
-    maxPrice: string;
-    rentFrequency: string;
-    roomsMin: string;
-    bathsMin: string;
-    areaMax: string;
-    locationExternalIDs: string;
-    sort: string;
-    categoryExternalID: string;
-  };
+  query: FilterOptions;
 }
 
 export async function getServerSideProps({ query }: Context) {

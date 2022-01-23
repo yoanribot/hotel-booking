@@ -48,7 +48,7 @@ const Home = ({ propertiesForRent, propertiesForSale }: Props) => {
 };
 
 export async function getStaticProps() {
-  const baseUrl = process.env.PROPERTIES_API_BASE_URL;
+  const baseUrl = process.env.NEXT_PUBLIC_PROPERTIES_API_BASE_URL;
   const propertyForSale = await fetchApi(
     `${baseUrl}/properties/list?locationExternalIDs=5002&purpose=for-sale&hitsPerPage=6`
   );
