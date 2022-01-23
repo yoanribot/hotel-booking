@@ -1,0 +1,2140 @@
+[
+  {
+      "id": 2911964,
+      "ownerID": 792123,
+      "userExternalID": "792123",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.062218,
+          "lng": 55.217732
+      },
+      "geography": {
+          "lat": 25.062218,
+          "lng": 55.217732
+      },
+      "purpose": "for-rent",
+      "price": 7850,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "305",
+      "permitNumber": "JUM-DIA-SJRFZ",
+      "title": "AMAZING UPGRADED 1BHK FOR MONTHLY BASIS INCLUDING ALL BILLS - NO COMMISSION",
+      "title_l1": "شقة جديدة للايجار الشهري في منطقة جميرا الدائرية",
+      "externalID": "5647678",
+      "slug": "amazing-upgraded-1bhk-for-monthly-basis-including-all-bills-no-commission-5647678",
+      "slug_l1": "amazing-upgraded-1bhk-for-monthly-basis-including-all-bills-no-commission-5647678",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 59,
+              "level": 2,
+              "externalID": "5416",
+              "name": "Jumeirah Village Circle (JVC)",
+              "name_l1": "قرية جميرا الدائرية",
+              "slug": "/dubai/jumeirah-village-circle-jvc",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc"
+          },
+          {
+              "id": 676,
+              "level": 3,
+              "externalID": "8453",
+              "name": "Diamond Views",
+              "name_l1": "دايموند فيوز",
+              "slug": "/dubai/jumeirah-village-circle-jvc/diamond-views-",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/diamond-views-"
+          },
+          {
+              "id": 4028,
+              "level": 4,
+              "externalID": "7521",
+              "name": "Diamond Views III",
+              "name_l1": "دايموند فيوز 3",
+              "slug": "/dubai/jumeirah-village-circle-jvc/diamond-views-/diamond-views-iii",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/diamond-views-/diamond-views-iii"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1642059390,
+      "updatedAt": 1642750606,
+      "reactivatedAt": 1642059390,
+      "rooms": 1,
+      "baths": 1,
+      "area": 67.8192192,
+      "score": 100,
+      "score_l1": 100,
+      "coverPhoto": {
+          "id": 179482570,
+          "externalID": "116733471",
+          "title": null,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/179482570/1e7f5ba9675b4cb8bbc53cbdb5b32253",
+          "orderIndex": 0,
+          "nimaScore": 8.81994819573174,
+          "main": true
+      },
+      "photoCount": 13,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971589159381",
+          "phone": "+97143388004",
+          "whatsapp": "971589159381",
+          "proxyMobile": "+971588020051",
+          "phoneNumbers": [
+              "+97143388004"
+          ],
+          "mobileNumbers": [
+              "+971589159381"
+          ]
+      },
+      "contactName": "Ahsan Zain Eddin",
+      "agency": {
+          "id": 29551757,
+          "objectID": 29551757,
+          "name": "Your Keys Holiday Homes Rental LLC",
+          "name_l1": "يور كيز هوليداي هومز رينتال",
+          "externalID": "9290",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "865561",
+                  "authority": "DED"
+              }
+          ],
+          "logo": {
+              "id": 83780295,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/83780295/40f206ab5d1c4021832a1ee8ad194b55"
+          },
+          "slug": "your-keys-holiday-homes-rental-llc-9290",
+          "slug_l1": "your-keys-holiday-homes-rental-llc-9290",
+          "tier": 4,
+          "roles": []
+      },
+      "hash": "9f59c33",
+      "keywords": [
+          "balcony",
+          "واسعة",
+          "kitchen",
+          "parking",
+          "شامل الماء والكهرباء",
+          "مطبخ",
+          "موقف سيارة",
+          "مع بلكونة",
+          "بلكونة",
+          "كبيرة",
+          "including all bills",
+          "شامل ماء وكهرباء",
+          "weekly",
+          "جديدة",
+          "spacious",
+          "floor",
+          "new",
+          "دور",
+          "clean",
+          "with balcony",
+          "مع شرفة",
+          "نظيف",
+          "اسبوعي"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1642749797.872061,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1642750606.835662
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 628,
+      "randBoostScore_l1": 628,
+      "floorPlanID": 3271,
+      "furnishingStatus": "furnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 628,
+      "indyScore_l1": 628,
+      "hasMatchingFloorPlans": true,
+      "photoIDs": [
+          179482570,
+          179558501,
+          179558502,
+          179482573,
+          179482574,
+          179558505,
+          179482576,
+          180602163,
+          180732345,
+          179482579,
+          179558510,
+          179482581,
+          180602166
+      ],
+      "hidePrice": false,
+      "objectID": "2911964",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "305",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "AMAZING UPGRADED 1BHK FOR MONTHLY BASIS INCLUDING ALL BILLS - NO COMMISSION",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5647678",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Your Keys Holiday Homes Rental LLC",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "واسعة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "شامل الماء والكهرباء",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مع بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "كبيرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "including all bills",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "شامل ماء وكهرباء",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "weekly",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "spacious",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "floor",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "دور",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "clean",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "with balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مع شرفة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "نظيف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "اسبوعي",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2735035,
+      "ownerID": 1035142,
+      "userExternalID": "1035142",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.10754,
+          "lng": 55.150238
+      },
+      "geography": {
+          "lat": 25.10754,
+          "lng": 55.150238
+      },
+      "purpose": "for-rent",
+      "price": 25000,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": null,
+      "permitNumber": "PAL-AL -7AOEN",
+      "title": "Peaceful two bedroom on Palm | 2 min to the beach",
+      "title_l1": "شقة في الدباس شقق شور لاين نخلة جميرا 2 غرف 25000 درهم - 5472618",
+      "externalID": "5472618",
+      "slug": "peaceful-two-bedroom-on-palm-2-min-to-the-beach-5472618",
+      "slug_l1": "peaceful-two-bedroom-on-palm-2-min-to-the-beach-5472618",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 14,
+              "level": 2,
+              "externalID": "5460",
+              "name": "Palm Jumeirah",
+              "name_l1": "نخلة جميرا",
+              "slug": "/dubai/palm-jumeirah",
+              "slug_l1": "/dubai/palm-jumeirah"
+          },
+          {
+              "id": 15,
+              "level": 3,
+              "externalID": "5466",
+              "name": "Shoreline Apartments",
+              "name_l1": "شقق شور لاين",
+              "slug": "/dubai/palm-jumeirah/shoreline-apartments",
+              "slug_l1": "/dubai/palm-jumeirah/shoreline-apartments"
+          },
+          {
+              "id": 598,
+              "level": 4,
+              "externalID": "8633",
+              "name": "Al Dabas",
+              "name_l1": "الدباس",
+              "slug": "/dubai/palm-jumeirah/shoreline-apartments/al-dabas",
+              "slug_l1": "/dubai/palm-jumeirah/shoreline-apartments/al-dabas"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1635101820,
+      "updatedAt": 1642662546,
+      "reactivatedAt": 1635101820,
+      "rooms": 2,
+      "baths": 2,
+      "area": 147.2513184,
+      "score": 100,
+      "score_l1": 62,
+      "coverPhoto": {
+          "id": 170600068,
+          "externalID": "113155621",
+          "title": null,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/170600068/ce422a18a531444d9c0c259bc4ed05d7",
+          "orderIndex": 0,
+          "nimaScore": 9.680815166185956,
+          "main": true
+      },
+      "photoCount": 18,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971525924994",
+          "phone": "+97145484592",
+          "whatsapp": "971525924994",
+          "proxyMobile": "+971527359402",
+          "phoneNumbers": [
+              "+97145484592"
+          ],
+          "mobileNumbers": [
+              "+971525924994",
+              "+525924994"
+          ]
+      },
+      "contactName": "Timur",
+      "agency": {
+          "id": 29600069,
+          "objectID": 29600069,
+          "name": "Mira Holiday Homes",
+          "name_l1": "Mira Holiday Homes",
+          "externalID": "10513",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "929148",
+                  "authority": "DED"
+              }
+          ],
+          "logo": {
+              "id": 104799447,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/104799447/12afe3f0cc7542568a1afd1be9c62225"
+          },
+          "slug": "mira-holiday-homes-10513",
+          "slug_l1": "mira-holiday-homes-10513",
+          "tier": 4
+      },
+      "hash": "3fe8882",
+      "keywords": [
+          "كبيرة",
+          "موقف سيارة",
+          "fitted",
+          "مفروش",
+          "kitchen",
+          "balcony",
+          "مفروشة",
+          "lounge",
+          "صالة",
+          "بلكونة",
+          "جاهز",
+          "مطبخ",
+          "واسعة",
+          "مؤثثة",
+          "parking",
+          "furnished",
+          "spacious"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1642595095.469972,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1642662546.982329
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 427,
+      "randBoostScore_l1": 427,
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 427,
+      "indyScore_l1": 427,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          170600068,
+          170600070,
+          170600073,
+          170600078,
+          170600082,
+          170600084,
+          170600086,
+          170600088,
+          170600103,
+          170600113,
+          170600121,
+          170600128,
+          170600133,
+          170600139,
+          170600143,
+          170600148,
+          170600153,
+          170600162
+      ],
+      "hidePrice": false,
+      "objectID": "2735035",
+      "_highlightResult": {
+          "title": {
+              "value": "Peaceful two bedroom on Palm | 2 min to the beach",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5472618",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Mira Holiday Homes",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "كبيرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "fitted",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروش",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروشة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "lounge",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "صالة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جاهز",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "واسعة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مؤثثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "furnished",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "spacious",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2274324,
+      "ownerID": 804554,
+      "userExternalID": "804554",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.050708,
+          "lng": 55.213872
+      },
+      "geography": {
+          "lat": 25.050708,
+          "lng": 55.213872
+      },
+      "purpose": "for-rent",
+      "price": 9800,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "420",
+      "permitNumber": "JUM-PAN-GCMRM",
+      "title": "Beautiful 2 BR/ Cozy Furnicher / kitchen Appliance/Balcony.",
+      "title_l1": "شقة في بانثيون بوليفارد قرية جميرا الدائرية 2 غرف 9800 درهم - 5000267",
+      "externalID": "5000267",
+      "slug": "beautiful-2-br-cozy-furnicher-kitchen-appliance-balcony-5000267",
+      "slug_l1": "beautiful-2-br-cozy-furnicher-kitchen-appliance-balcony-5000267",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 59,
+              "level": 2,
+              "externalID": "5416",
+              "name": "Jumeirah Village Circle (JVC)",
+              "name_l1": "قرية جميرا الدائرية",
+              "slug": "/dubai/jumeirah-village-circle-jvc",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc"
+          },
+          {
+              "id": 1967,
+              "level": 3,
+              "externalID": "11298",
+              "name": "Pantheon Boulevard",
+              "name_l1": "بانثيون بوليفارد",
+              "slug": "/dubai/jumeirah-village-circle-jvc/pantheon-boulevard",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/pantheon-boulevard"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1613032287,
+      "updatedAt": 1642159559,
+      "reactivatedAt": 1613032287,
+      "rooms": 2,
+      "baths": 2,
+      "area": 89.46562752000001,
+      "score": 100,
+      "score_l1": 62,
+      "coverPhoto": {
+          "id": 179796984,
+          "externalID": "116810107",
+          "title": "spacious living room",
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/179796984/ce1c3651207646e982357cad72ad61e1",
+          "orderIndex": 0,
+          "nimaScore": 9.694582716134391,
+          "main": true
+      },
+      "photoCount": 18,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971568384337",
+          "phone": "+97142779821",
+          "whatsapp": "971568384337",
+          "proxyMobile": "+971522846942",
+          "proxyPhone": "+97144298820",
+          "phoneNumbers": [
+              "+97142779821"
+          ],
+          "mobileNumbers": [
+              "+971568384337"
+          ]
+      },
+      "contactName": "Rania Mrassi",
+      "agency": {
+          "id": 29589916,
+          "objectID": 29589916,
+          "name": "B L V D Holiday Homes Rental L. L. C",
+          "name_l1": "بي ال في دي هوليداي هومز رينتال ذ",
+          "externalID": "10204",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "906876",
+                  "authority": "DED"
+              }
+          ],
+          "logo": {
+              "id": 99895298,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/99895298/9fc421847605425f9f3227a49d9db7f9"
+          },
+          "slug": "b-l-v-d-holiday-homes-rental-l-l-c-10204",
+          "slug_l1": "b-l-v-d-holiday-homes-rental-l-l-c-10204",
+          "tier": 4,
+          "roles": []
+      },
+      "hash": "c2fea79",
+      "keywords": [
+          "mall",
+          "اسبوعي",
+          "مطبخ",
+          "عوائل",
+          "guest",
+          "فاخرة",
+          "airport",
+          "weekly",
+          "balcony",
+          "مطار",
+          "نظيف",
+          "luxury",
+          "بلكونة",
+          "clean",
+          "مول",
+          "furnished",
+          "سعر جيد",
+          "families",
+          "affordable",
+          "مجلس",
+          "kitchen",
+          "مفروش",
+          "يومي",
+          "مؤثثة",
+          "مفروشة",
+          "daily"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1641831194.042391,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1641887673.241141
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 353,
+      "randBoostScore_l1": 353,
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 353,
+      "indyScore_l1": 353,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          179796984,
+          170860488,
+          179799820,
+          170860478,
+          179796981,
+          179799822,
+          179796983,
+          179796985,
+          179799825,
+          179796987,
+          179799827,
+          168643160,
+          179796990,
+          179796991,
+          179796992,
+          179799832,
+          179799833,
+          179796995
+      ],
+      "hidePrice": false,
+      "objectID": "2274324",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "420",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "Beautiful 2 BR/ Cozy Furnicher / kitchen Appliance/Balcony.",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5000267",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "B L V D Holiday Homes Rental L. L. C",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "mall",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "اسبوعي",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "عوائل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "guest",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "فاخرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "airport",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "weekly",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطار",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "نظيف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "luxury",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "clean",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "furnished",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "سعر جيد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "families",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "affordable",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مجلس",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروش",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "يومي",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مؤثثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروشة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "daily",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2424083,
+      "ownerID": 1090133,
+      "userExternalID": "1090133",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.052897264715,
+          "lng": 55.206069483224
+      },
+      "geography": {
+          "lat": 25.052897264715,
+          "lng": 55.206069483224
+      },
+      "purpose": "for-rent",
+      "price": 7999,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "1120-Ap-R-0386",
+      "permitNumber": null,
+      "title": "LUXURIOUS FULLY FURNISHED 2 BEDROOM APARTMENT AT AL ZUBAIDI RESIDENCE",
+      "title_l1": "شقة في مساكن الزبيدي الضاحية 14 قرية جميرا الدائرية 2 غرف 7999 درهم - 5150071",
+      "externalID": "5150071",
+      "slug": "luxurious-fully-furnished-2-bedroom-apartment-at-al-zubaidi-residence-5150071",
+      "slug_l1": "luxurious-fully-furnished-2-bedroom-apartment-at-al-zubaidi-residence-5150071",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 59,
+              "level": 2,
+              "externalID": "5416",
+              "name": "Jumeirah Village Circle (JVC)",
+              "name_l1": "قرية جميرا الدائرية",
+              "slug": "/dubai/jumeirah-village-circle-jvc",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc"
+          },
+          {
+              "id": 3327,
+              "level": 3,
+              "externalID": "11454",
+              "name": "District 14",
+              "name_l1": "الضاحية 14",
+              "slug": "/dubai/jumeirah-village-circle-jvc/district-14",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/district-14"
+          },
+          {
+              "id": 15838,
+              "level": 4,
+              "externalID": "12039",
+              "name": "Al Zubaidi Residence",
+              "name_l1": "مساكن الزبيدي",
+              "slug": "/dubai/jumeirah-village-circle-jvc/district-14/al-zubaidi-residence",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/district-14/al-zubaidi-residence"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1621258025,
+      "updatedAt": 1642747341,
+      "reactivatedAt": 1635146126.906565,
+      "rooms": 2,
+      "baths": 3,
+      "area": 116.1288,
+      "score": 80,
+      "score_l1": 42,
+      "coverPhoto": {
+          "id": 170063070,
+          "externalID": "107305102",
+          "title": null,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/170063070/e2d2fd883072419397205693e5faa806",
+          "orderIndex": 0,
+          "nimaScore": 8.693877596349921,
+          "main": true
+      },
+      "photoCount": 15,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971565440231",
+          "phone": "+97145572402",
+          "proxyPhone": "+97145128215",
+          "phoneNumbers": [
+              "+97145572402"
+          ],
+          "mobileNumbers": [
+              "+971565440231"
+          ]
+      },
+      "contactName": "Shahzad Gulfam",
+      "agency": {
+          "id": 29536933,
+          "objectID": 29536933,
+          "name": "Dar Al Zain Vacation Homes Rental",
+          "name_l1": "دار الزين لتأجير المنازل",
+          "externalID": "8933",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "825766",
+                  "authority": "DED"
+              }
+          ],
+          "logo": {
+              "id": 75770747,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/75770747/3bc86bb51d114bdeafe816268fff2c26"
+          },
+          "slug": "dar-al-zain-vacation-homes-rental-8933",
+          "slug_l1": "dar-al-zain-vacation-homes-rental-8933",
+          "tier": 1,
+          "roles": []
+      },
+      "hash": "c767a02",
+      "keywords": [
+          "مشتركة",
+          "موقف سيارة",
+          "مؤثثة",
+          "مصعد",
+          "with balcony",
+          "مع شرفة",
+          "parking",
+          "غرفتين",
+          "shared",
+          "furnished",
+          "kitchen",
+          "heating",
+          "balcony",
+          "مطبخ",
+          "2 bedroom",
+          "2 غرفة",
+          "مع بلكونة",
+          "laundry",
+          "تدفئة",
+          "غرفتين نوم",
+          "بلكونة",
+          "غسيل",
+          "مفروشة",
+          "elevator",
+          "شيرنج",
+          "مفروش"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1642699428.002045,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1642747341.625139
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 63,
+      "randBoostScore_l1": 63,
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 63,
+      "indyScore_l1": 63,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          170063070,
+          170063105,
+          170063170,
+          170063093,
+          170063114,
+          162194603,
+          170063099,
+          170063124,
+          170063130,
+          170063140,
+          170063149,
+          170063163,
+          170063177,
+          170063194,
+          170063200
+      ],
+      "hidePrice": false,
+      "objectID": "2424083",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "1120-Ap-R-0386",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "LUXURIOUS FULLY FURNISHED 2 BEDROOM APARTMENT AT AL ZUBAIDI RESIDENCE",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5150071",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Dar Al Zain Vacation Homes Rental",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "مشتركة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مؤثثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مصعد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "with balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مع شرفة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "غرفتين",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "shared",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "furnished",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "heating",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "2 bedroom",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "2 غرفة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مع بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "laundry",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "تدفئة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "غرفتين نوم",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "غسيل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروشة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "elevator",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "شيرنج",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروش",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2698266,
+      "ownerID": 1090133,
+      "userExternalID": "1090133",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.052848,
+          "lng": 55.206056
+      },
+      "geography": {
+          "lat": 25.052848,
+          "lng": 55.206056
+      },
+      "purpose": "for-rent",
+      "price": 5999,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "1120-Ap-R-0565",
+      "permitNumber": null,
+      "title": "LOVELY ONE BED ROOM APARTMENT IN JVC",
+      "title_l1": "شقة في بناية زين سعيد زين الزبيدي قرية جميرا الدائرية 1 غرف 5999 درهم - 5435285",
+      "externalID": "5435285",
+      "slug": "lovely-one-bed-room-apartment-in-jvc-5435285",
+      "slug_l1": "lovely-one-bed-room-apartment-in-jvc-5435285",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 59,
+              "level": 2,
+              "externalID": "5416",
+              "name": "Jumeirah Village Circle (JVC)",
+              "name_l1": "قرية جميرا الدائرية",
+              "slug": "/dubai/jumeirah-village-circle-jvc",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc"
+          },
+          {
+              "id": 17006,
+              "level": 3,
+              "externalID": "12943",
+              "name": "Zain Saeed Zain Al Zubaidi Building",
+              "name_l1": "بناية زين سعيد زين الزبيدي",
+              "slug": "/dubai/jumeirah-village-circle-jvc/zain-saeed-zain-al-zubaidi-building",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/zain-saeed-zain-al-zubaidi-building"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1633596741,
+      "updatedAt": 1642828666,
+      "reactivatedAt": 1633596741,
+      "rooms": 1,
+      "baths": 2,
+      "area": 92.90304,
+      "score": 78,
+      "score_l1": 40,
+      "coverPhoto": {
+          "id": 170062355,
+          "externalID": "112458657",
+          "title": null,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/170062355/dd4f40e6da864219a5b7a1f41e953a88",
+          "orderIndex": 0,
+          "nimaScore": 8.940368486873922,
+          "main": true
+      },
+      "photoCount": 13,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971565440231",
+          "phone": "+97145572402",
+          "proxyPhone": "+97145128215",
+          "phoneNumbers": [
+              "+97145572402"
+          ],
+          "mobileNumbers": [
+              "+971565440231"
+          ]
+      },
+      "contactName": "Shahzad Gulfam",
+      "agency": {
+          "id": 29536933,
+          "objectID": 29536933,
+          "name": "Dar Al Zain Vacation Homes Rental",
+          "name_l1": "دار الزين لتأجير المنازل",
+          "externalID": "8933",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "825766",
+                  "authority": "DED"
+              }
+          ],
+          "logo": {
+              "id": 75770747,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/75770747/3bc86bb51d114bdeafe816268fff2c26"
+          },
+          "slug": "dar-al-zain-vacation-homes-rental-8933",
+          "slug_l1": "dar-al-zain-vacation-homes-rental-8933",
+          "tier": 1,
+          "roles": []
+      },
+      "hash": "0860d60",
+      "keywords": [
+          "shared",
+          "parking",
+          "شيرنج",
+          "تدفئة",
+          "موقف سيارة",
+          "ايجار جديد",
+          "اول ساكن",
+          "مطبخ",
+          "laundry",
+          "kitchen",
+          "غسيل",
+          "new",
+          "مشتركة",
+          "مصعد",
+          "heating",
+          "ساكن اول",
+          "جديدة اول ساكن",
+          "brand new",
+          "elevator",
+          "جديدة"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1640761256.186963,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1640767623.967226
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 38,
+      "randBoostScore_l1": 38,
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 38,
+      "indyScore_l1": 38,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          170062355,
+          170062364,
+          170062375,
+          170062381,
+          170062391,
+          170062405,
+          170062423,
+          170062430,
+          170062434,
+          170062438,
+          170062413,
+          170062441,
+          170062446
+      ],
+      "hidePrice": false,
+      "objectID": "2698266",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "1120-Ap-R-0565",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "LOVELY ONE BED ROOM APARTMENT IN JVC",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5435285",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Dar Al Zain Vacation Homes Rental",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "shared",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "شيرنج",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "تدفئة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ايجار جديد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "laundry",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "غسيل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مشتركة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مصعد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "heating",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ساكن اول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "brand new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "elevator",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2410605,
+      "ownerID": 792123,
+      "userExternalID": "792123",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.062218,
+          "lng": 55.217732
+      },
+      "geography": {
+          "lat": 25.062218,
+          "lng": 55.217732
+      },
+      "purpose": "for-rent",
+      "price": 7300,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "304",
+      "permitNumber": "JUM-DIA-LKBUI",
+      "title": "BRILLIANT FURNISHED  1BR IN JVC INCLUDING ALL BILLS",
+      "title_l1": "شقه جديدة مفروشة في قرية الجميرا الدائريه",
+      "externalID": "5136669",
+      "slug": "brilliant-furnished-1br-in-jvc-including-all-bills-5136669",
+      "slug_l1": "brilliant-furnished-1br-in-jvc-including-all-bills-5136669",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 59,
+              "level": 2,
+              "externalID": "5416",
+              "name": "Jumeirah Village Circle (JVC)",
+              "name_l1": "قرية جميرا الدائرية",
+              "slug": "/dubai/jumeirah-village-circle-jvc",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc"
+          },
+          {
+              "id": 676,
+              "level": 3,
+              "externalID": "8453",
+              "name": "Diamond Views",
+              "name_l1": "دايموند فيوز",
+              "slug": "/dubai/jumeirah-village-circle-jvc/diamond-views-",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/diamond-views-"
+          },
+          {
+              "id": 4028,
+              "level": 4,
+              "externalID": "7521",
+              "name": "Diamond Views III",
+              "name_l1": "دايموند فيوز 3",
+              "slug": "/dubai/jumeirah-village-circle-jvc/diamond-views-/diamond-views-iii",
+              "slug_l1": "/dubai/jumeirah-village-circle-jvc/diamond-views-/diamond-views-iii"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1620207719,
+      "updatedAt": 1642665329,
+      "reactivatedAt": 1620207719,
+      "rooms": 1,
+      "baths": 1,
+      "area": 67.8192192,
+      "score": 81,
+      "score_l1": 81,
+      "coverPhoto": {
+          "id": 170789562,
+          "externalID": "107058442",
+          "title": null,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/170789562/b264ca64fcf248a98d0b1bf83664c7e3",
+          "orderIndex": 0,
+          "nimaScore": 9.33864910467787,
+          "main": true
+      },
+      "photoCount": 10,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971589159381",
+          "phone": "+97143388004",
+          "whatsapp": "971589159381",
+          "proxyMobile": "+971588020051",
+          "phoneNumbers": [
+              "+97143388004"
+          ],
+          "mobileNumbers": [
+              "+971589159381"
+          ]
+      },
+      "contactName": "Ahsan Zain Eddin",
+      "agency": {
+          "id": 29551757,
+          "objectID": 29551757,
+          "name": "Your Keys Holiday Homes Rental LLC",
+          "name_l1": "يور كيز هوليداي هومز رينتال",
+          "externalID": "9290",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "865561",
+                  "authority": "DED"
+              }
+          ],
+          "logo": {
+              "id": 83780295,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/83780295/40f206ab5d1c4021832a1ee8ad194b55"
+          },
+          "slug": "your-keys-holiday-homes-rental-llc-9290",
+          "slug_l1": "your-keys-holiday-homes-rental-llc-9290",
+          "tier": 4
+      },
+      "hash": "23fe8c6",
+      "keywords": [
+          "clean",
+          "مع بلكونة",
+          "spacious",
+          "كبيرة",
+          "مفروشة",
+          "weekly",
+          "floor",
+          "مؤثثة",
+          "بلكونة",
+          "مطبخ",
+          "شامل ماء وكهرباء",
+          "دور",
+          "موقف سيارة",
+          "parking",
+          "مفروش",
+          "kitchen",
+          "including all bills",
+          "جديدة",
+          "واسعة",
+          "شامل الماء والكهرباء",
+          "furnished",
+          "مع شرفة",
+          "نظيف",
+          "balcony",
+          "new",
+          "with balcony",
+          "اسبوعي"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1642339646.538937,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1642415041.489798
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 34,
+      "randBoostScore_l1": 34,
+      "floorPlanID": 3267,
+      "furnishingStatus": "furnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 34,
+      "indyScore_l1": 34,
+      "hasMatchingFloorPlans": true,
+      "photoIDs": [
+          170789562,
+          170789499,
+          170789525,
+          170789532,
+          170789541,
+          170789548,
+          170789554,
+          170789569,
+          170789578,
+          170789586
+      ],
+      "hidePrice": false,
+      "objectID": "2410605",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "304",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "BRILLIANT FURNISHED  1BR IN JVC INCLUDING ALL BILLS",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5136669",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Your Keys Holiday Homes Rental LLC",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "clean",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مع بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "spacious",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "كبيرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروشة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "weekly",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "floor",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مؤثثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "شامل ماء وكهرباء",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "دور",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروش",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "including all bills",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "واسعة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "شامل الماء والكهرباء",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "furnished",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مع شرفة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "نظيف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "with balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "اسبوعي",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  }
+]

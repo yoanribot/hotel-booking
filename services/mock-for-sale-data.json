@@ -1,0 +1,2368 @@
+[
+  {
+      "id": 2747565,
+      "ownerID": 1094243,
+      "userExternalID": "1094243",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.20630017458,
+          "lng": 55.344507694244
+      },
+      "geography": {
+          "lat": 25.20630017458,
+          "lng": 55.344507694244
+      },
+      "purpose": "for-sale",
+      "price": 2800000,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": null,
+      "referenceNumber": "L-172239",
+      "permitNumber": "7127671889",
+      "title": "3 Bedrooms | High Floor | Ready To Move",
+      "title_l1": "شقة في هاربور فيوز 1 هاربور فيوز مرسى خور دبي ذا لاجونز 3 غرف 2800000 درهم - 5485165",
+      "externalID": "5485165",
+      "slug": "3-bedrooms-high-floor-ready-to-move-5485165",
+      "slug_l1": "3-bedrooms-high-floor-ready-to-move-5485165",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 241,
+              "level": 2,
+              "externalID": "5539",
+              "name": "The Lagoons",
+              "name_l1": "ذا لاجونز",
+              "slug": "/dubai/the-lagoons",
+              "slug_l1": "/dubai/the-lagoons"
+          },
+          {
+              "id": 242,
+              "level": 3,
+              "externalID": "8617",
+              "name": "Dubai Creek Harbour",
+              "name_l1": "مرسى خور دبي",
+              "slug": "/dubai/the-lagoons/dubai-creek-harbour",
+              "slug_l1": "/dubai/the-lagoons/dubai-creek-harbour"
+          },
+          {
+              "id": 1243,
+              "level": 4,
+              "externalID": "11198",
+              "name": "Harbour Views",
+              "name_l1": "هاربور فيوز",
+              "slug": "/dubai/the-lagoons/dubai-creek-harbour/harbour-views",
+              "slug_l1": "/dubai/the-lagoons/dubai-creek-harbour/harbour-views"
+          },
+          {
+              "id": 1244,
+              "level": 5,
+              "externalID": "8618",
+              "name": "Harbour Views 1",
+              "name_l1": "هاربور فيوز 1",
+              "slug": "/dubai/the-lagoons/dubai-creek-harbour/harbour-views/harbour-views-1",
+              "slug_l1": "/dubai/the-lagoons/dubai-creek-harbour/harbour-views/harbour-views-1"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1635428287,
+      "updatedAt": 1641810066,
+      "reactivatedAt": 1635428287,
+      "rooms": 3,
+      "baths": 3,
+      "area": 147.99454272,
+      "score": 100,
+      "score_l1": 62,
+      "coverPhoto": {
+          "id": 169346003,
+          "externalID": "113374754",
+          "title": "3 Bedrooms | High Floor | Ready To Move",
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/169346003/5fe534f0b0e2466a84072d72d174f305",
+          "orderIndex": 0,
+          "nimaScore": 6.006466340179474,
+          "main": true
+      },
+      "coverVideo": {
+          "externalID": 169351,
+          "title": null,
+          "host": "youtube",
+          "url": "https://www.youtube.com/watch?v=xEEkgFCivSc",
+          "orderIndex": 0
+      },
+      "photoCount": 21,
+      "videoCount": 1,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971585330430",
+          "phone": "+97144294444",
+          "phoneNumbers": [
+              "+97144294444"
+          ],
+          "mobileNumbers": [
+              "+971585330430"
+          ]
+      },
+      "contactName": "Abbey Priestley",
+      "agency": {
+          "id": 29603656,
+          "objectID": 29603656,
+          "name": "Allsopp & Allsopp - Business Bay",
+          "name_l1": "ألسوب و ألسوب- مبيعات الخليج التجاري",
+          "externalID": "10642",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "613873",
+                  "authority": "DED"
+              },
+              {
+                  "number": "1815",
+                  "authority": "RERA"
+              }
+          ],
+          "logo": {
+              "id": 108123704,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/108123704/bceea7cecf5146d29b2610fff7e20af4"
+          },
+          "slug": "allsopp-allsopp-business-bay-10642",
+          "slug_l1": "allsopp-allsopp-business-bay-10642",
+          "tier": 1
+      },
+      "hash": "a4c3690",
+      "keywords": [
+          "modern",
+          "laundry",
+          "open kitchen",
+          "جاهزة",
+          "موقف سيارة",
+          "جديدة اول ساكن",
+          "ثلاثه غرفة",
+          "new",
+          "حديثة",
+          "balcony",
+          "كبيرة",
+          "بلكونة",
+          "ready",
+          "واسعة",
+          "spacious",
+          "floor",
+          "maid",
+          "جاهز",
+          "ثلاث غرف",
+          "خادمة",
+          "kitchen",
+          "غسيل",
+          "دور",
+          "3 bedroom",
+          "3 غرف جديدة",
+          "parking",
+          "brand new",
+          "جديدة",
+          "ايجار جديد",
+          "fitted",
+          "مطبخ",
+          "ساكن اول",
+          "مودرن",
+          "مؤثثة",
+          "مطبخ مفتوح",
+          "3 غرف",
+          "اول ساكن"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1640089147.104289,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1640165549.996891
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 837,
+      "randBoostScore_l1": 837,
+      "floorPlanID": null,
+      "furnishingStatus": "unfurnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 133,
+      "indyScore_l1": 133,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          169346003,
+          169346027,
+          169346066,
+          169346082,
+          169346106,
+          169346144,
+          169346174,
+          169346183,
+          169346213,
+          169346297,
+          169346362,
+          169346390,
+          169346418,
+          169346456,
+          169346471,
+          169346482,
+          169346493,
+          169346498,
+          169346518,
+          169346536,
+          169346544
+      ],
+      "objectID": "2747565",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "L-172239",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "3 Bedrooms | High Floor | Ready To Move",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5485165",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Allsopp & Allsopp - Business Bay",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "modern",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "laundry",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "open kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جاهزة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ثلاثه غرفة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "حديثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "كبيرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ready",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "واسعة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "spacious",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "floor",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "maid",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جاهز",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ثلاث غرف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "خادمة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "غسيل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "دور",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 bedroom",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 غرف جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "brand new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ايجار جديد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "fitted",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ساكن اول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مودرن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مؤثثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ مفتوح",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 غرف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2826029,
+      "ownerID": 1094243,
+      "userExternalID": "1094243",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.206478639673,
+          "lng": 55.343253612866
+      },
+      "geography": {
+          "lat": 25.206478639673,
+          "lng": 55.343253612866
+      },
+      "purpose": "for-sale",
+      "price": 1600000,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": null,
+      "referenceNumber": "L-181744",
+      "permitNumber": "7117655428",
+      "title": "Largest 1 Bed | High Floor | Creek Views",
+      "title_l1": "شقة في مساكن خور دبي 2 شمال مرسى خور دبي ذا لاجونز 1 غرف 1600000 درهم - 5562851",
+      "externalID": "5562851",
+      "slug": "largest-1-bed-high-floor-creek-views-5562851",
+      "slug_l1": "largest-1-bed-high-floor-creek-views-5562851",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 241,
+              "level": 2,
+              "externalID": "5539",
+              "name": "The Lagoons",
+              "name_l1": "ذا لاجونز",
+              "slug": "/dubai/the-lagoons",
+              "slug_l1": "/dubai/the-lagoons"
+          },
+          {
+              "id": 242,
+              "level": 3,
+              "externalID": "8617",
+              "name": "Dubai Creek Harbour",
+              "name_l1": "مرسى خور دبي",
+              "slug": "/dubai/the-lagoons/dubai-creek-harbour",
+              "slug_l1": "/dubai/the-lagoons/dubai-creek-harbour"
+          },
+          {
+              "id": 948,
+              "level": 4,
+              "externalID": "9171",
+              "name": "Dubai Creek Residence Tower 2 North",
+              "name_l1": "مساكن خور دبي 2 شمال",
+              "slug": "/dubai/the-lagoons/dubai-creek-harbour/dubai-creek-residence-tower-2-north",
+              "slug_l1": "/dubai/the-lagoons/dubai-creek-harbour/dubai-creek-residence-tower-2-north"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1638477304,
+      "updatedAt": 1642168810,
+      "reactivatedAt": 1638477304,
+      "rooms": 1,
+      "baths": 2,
+      "area": 108.6965568,
+      "score": 91,
+      "score_l1": 56,
+      "coverPhoto": {
+          "id": 171959899,
+          "externalID": "114972315",
+          "title": "Largest 1 Bed | High Floor | Creek Views",
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/171959899/b045d72fa98543beae0a83ec15385737",
+          "orderIndex": 0,
+          "nimaScore": 9.175381941222895,
+          "main": true
+      },
+      "coverVideo": {
+          "externalID": 177066,
+          "title": null,
+          "host": "youtube",
+          "url": "https://www.youtube.com/watch?v=JfUEpdMGEo4",
+          "orderIndex": 0
+      },
+      "photoCount": 12,
+      "videoCount": 1,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971585330430",
+          "phone": "+97144294444",
+          "phoneNumbers": [
+              "+97144294444"
+          ],
+          "mobileNumbers": [
+              "+971585330430"
+          ]
+      },
+      "contactName": "Abbey Priestley",
+      "agency": {
+          "id": 29603656,
+          "objectID": 29603656,
+          "name": "Allsopp & Allsopp - Business Bay",
+          "name_l1": "ألسوب و ألسوب- مبيعات الخليج التجاري",
+          "externalID": "10642",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "613873",
+                  "authority": "DED"
+              },
+              {
+                  "number": "1815",
+                  "authority": "RERA"
+              }
+          ],
+          "logo": {
+              "id": 108123704,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/108123704/bceea7cecf5146d29b2610fff7e20af4"
+          },
+          "slug": "allsopp-allsopp-business-bay-10642",
+          "slug_l1": "allsopp-allsopp-business-bay-10642",
+          "tier": 1
+      },
+      "hash": "135cb56",
+      "keywords": [
+          "جديدة",
+          "brand new",
+          "ايجار جديد",
+          "جديدة اول ساكن",
+          "floor",
+          "واسعة",
+          "luxury",
+          "modern",
+          "غسيل",
+          "كبيرة",
+          "new",
+          "حديثة",
+          "مطبخ",
+          "بلكونة",
+          "kitchen",
+          "دور",
+          "فاخرة",
+          "laundry",
+          "ساكن اول",
+          "spacious",
+          "مودرن",
+          "اول ساكن",
+          "balcony"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1642168319.463683,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1642168814.156715
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 785,
+      "randBoostScore_l1": 785,
+      "floorPlanID": null,
+      "furnishingStatus": "unfurnished",
+      "extraFields": {
+          "dldBuildingNK": "tabu+ejari-17655366",
+          "dldPropertySK": "dld|mea|ae|tabu+ejari-17655428"
+      },
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 246,
+      "indyScore_l1": 246,
+      "hasMatchingFloorPlans": true,
+      "photoIDs": [
+          171959899,
+          171959902,
+          171959904,
+          171959906,
+          171959909,
+          171959911,
+          171959913,
+          171959916,
+          171959919,
+          171959921,
+          171959923,
+          171959926
+      ],
+      "hidePrice": false,
+      "objectID": "2826029",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "L-181744",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "Largest 1 Bed | High Floor | Creek Views",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5562851",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Allsopp & Allsopp - Business Bay",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "brand new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ايجار جديد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "floor",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "واسعة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "luxury",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "modern",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "غسيل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "كبيرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "حديثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "دور",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "فاخرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "laundry",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ساكن اول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "spacious",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مودرن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2853611,
+      "ownerID": 1033199,
+      "userExternalID": "1033199",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.056658,
+          "lng": 55.155539
+      },
+      "geography": {
+          "lat": 25.056658,
+          "lng": 55.155539
+      },
+      "purpose": "for-sale",
+      "price": 7499999,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": null,
+      "referenceNumber": "DP-S-41113",
+      "permitNumber": "6953865790",
+      "title": "Exclusive Villa | Spacious Plot | Vacant",
+      "title_l1": "فیلا في قاعة الإحتفالات جزر جميرا - مجموعات أوروبية جزر جميرا 4 غرف 7499999 درهم - 5586467",
+      "externalID": "5586467",
+      "slug": "exclusive-villa-spacious-plot-vacant-5586467",
+      "slug_l1": "exclusive-villa-spacious-plot-vacant-5586467",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 653,
+              "level": 2,
+              "externalID": "5662",
+              "name": "Jumeirah Islands",
+              "name_l1": "جزر جميرا",
+              "slug": "/dubai/jumeirah-islands",
+              "slug_l1": "/dubai/jumeirah-islands"
+          },
+          {
+              "id": 4052,
+              "level": 3,
+              "externalID": "7807",
+              "name": "European Cluster",
+              "name_l1": "جزر جميرا - مجموعات أوروبية",
+              "slug": "/dubai/jumeirah-islands/european-cluster",
+              "slug_l1": "/dubai/jumeirah-islands/european-cluster"
+          },
+          {
+              "id": 4053,
+              "level": 4,
+              "externalID": "10216",
+              "name": "Entertainment Foyer",
+              "name_l1": "قاعة الإحتفالات",
+              "slug": "/dubai/jumeirah-islands/european-cluster/entertainment-foyer",
+              "slug_l1": "/dubai/jumeirah-islands/european-cluster/entertainment-foyer"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "3",
+              "name": "Villas",
+              "name_l1": "فلل",
+              "slug": "villas",
+              "slug_l1": "villas",
+              "nameSingular": "Villa",
+              "nameSingular_l1": "فیلا"
+          }
+      ],
+      "createdAt": 1639468996,
+      "updatedAt": 1642743314,
+      "reactivatedAt": 1639468996,
+      "rooms": 4,
+      "baths": 5,
+      "area": 490.9925664,
+      "score": 100,
+      "score_l1": 62,
+      "coverPhoto": {
+          "id": 174300867,
+          "externalID": "115512771",
+          "title": "Well-managed Villa and Big Plot | Vacant",
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/174300867/eb3719621f6c438aaf10c5b3fd18f317",
+          "orderIndex": 0,
+          "nimaScore": 9.073194270509049,
+          "main": true
+      },
+      "photoCount": 30,
+      "videoCount": 0,
+      "panoramaCount": 1,
+      "phoneNumber": {
+          "mobile": "+971503789898",
+          "phone": "+97144297040",
+          "whatsapp": "971569988418",
+          "proxyMobile": "+971522873487",
+          "phoneNumbers": [
+              "+97144297040"
+          ],
+          "mobileNumbers": [
+              "+971503789898"
+          ]
+      },
+      "contactName": "Saloomeh Ainavi",
+      "agency": {
+          "id": 13,
+          "objectID": 13,
+          "name": "Driven Properties",
+          "name_l1": "درفن للعقارات ش",
+          "externalID": "6168",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "11917",
+                  "authority": "RERA"
+              }
+          ],
+          "logo": {
+              "id": 27769554,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/27769554/822a0ada129b4039b81c38d1dedeb2ed"
+          },
+          "slug": "driven-properties-6168",
+          "slug_l1": "driven-properties-6168",
+          "tier": 1,
+          "roles": []
+      },
+      "hash": "87e962c",
+      "keywords": [
+          "4 غرف نوم",
+          "مول",
+          "تمليك حر",
+          "furnished",
+          "مؤثثة",
+          "مفروشة",
+          "حديثة",
+          "freehold",
+          "مفروش",
+          "تملك حر",
+          "مودرن",
+          "kitchen",
+          "mall",
+          "4 bedroom",
+          "جاهز",
+          "parking",
+          "كبيرة",
+          "fitted",
+          "private pool",
+          "مسبح خاص",
+          "مطبخ",
+          "modern",
+          "حديقة",
+          "spacious",
+          "4 غرف",
+          "garden",
+          "واسعة",
+          "موقف سيارة"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1640585392.24564,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1640588400.676834
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 777,
+      "randBoostScore_l1": 777,
+      "floorPlanID": null,
+      "furnishingStatus": null,
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 777,
+      "indyScore_l1": 777,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          174300867,
+          174300870,
+          174300871,
+          174300872,
+          174300873,
+          174300874,
+          174300875,
+          174300876,
+          174300877,
+          174300878,
+          174300879,
+          174300880,
+          174300881,
+          174300882,
+          174300883,
+          174300884,
+          174300885,
+          174300886,
+          174300887,
+          174300888,
+          174300889,
+          174300890,
+          174300891,
+          174300892,
+          174300893,
+          174300894,
+          174300895,
+          174300896,
+          174300897,
+          174300898
+      ],
+      "hidePrice": false,
+      "objectID": "2853611",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "DP-S-41113",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "Exclusive Villa | Spacious Plot | Vacant",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5586467",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Driven Properties",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "4 غرف نوم",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "تمليك حر",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "furnished",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مؤثثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروشة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "حديثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "freehold",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مفروش",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "تملك حر",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مودرن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "mall",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "4 bedroom",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جاهز",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "كبيرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "fitted",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "private pool",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مسبح خاص",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "modern",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "حديقة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "spacious",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "4 غرف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "garden",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "واسعة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2894085,
+      "ownerID": 1063901,
+      "userExternalID": "1063901",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.063275,
+          "lng": 55.241471
+      },
+      "geography": {
+          "lat": 25.063275,
+          "lng": 55.241471
+      },
+      "purpose": "for-sale",
+      "price": 400000,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": null,
+      "referenceNumber": "ARJAN-SAH-LINPB-STD",
+      "permitNumber": "7115028578",
+      "title": "Suitable Price | Impressive Unit | Must See",
+      "title_l1": "شقة في لينكولن بارك نورث سايد لينكولن بارك أرجان 400000 درهم - 5629680",
+      "externalID": "5629680",
+      "slug": "suitable-price-impressive-unit-must-see-5629680",
+      "slug_l1": "suitable-price-impressive-unit-must-see-5629680",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 91,
+              "level": 2,
+              "externalID": "5785",
+              "name": "Arjan",
+              "name_l1": "أرجان",
+              "slug": "/dubai/arjan",
+              "slug_l1": "/dubai/arjan"
+          },
+          {
+              "id": 265,
+              "level": 3,
+              "externalID": "5763",
+              "name": "Lincoln Park",
+              "name_l1": "لينكولن بارك",
+              "slug": "/dubai/arjan/lincoln-park",
+              "slug_l1": "/dubai/arjan/lincoln-park"
+          },
+          {
+              "id": 17258,
+              "level": 4,
+              "externalID": "13159",
+              "name": "Lincoln Park Northside",
+              "name_l1": "لينكولن بارك نورث سايد",
+              "slug": "/dubai/arjan/lincoln-park/lincoln-park-northside",
+              "slug_l1": "/dubai/arjan/lincoln-park/lincoln-park-northside"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "4",
+              "name": "Apartments",
+              "name_l1": "شقق",
+              "slug": "apartments",
+              "slug_l1": "apartments",
+              "nameSingular": "Apartment",
+              "nameSingular_l1": "شقة"
+          }
+      ],
+      "createdAt": 1641371679,
+      "updatedAt": 1642059326,
+      "reactivatedAt": 1641371679,
+      "rooms": 0,
+      "baths": 1,
+      "area": 56.48504832,
+      "score": 100,
+      "score_l1": 62,
+      "coverPhoto": {
+          "id": 178837858,
+          "externalID": "116368830",
+          "title": null,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/178837858/2e7fa336797a488f88d5301c4ad16522",
+          "orderIndex": 0,
+          "nimaScore": 9.019032234962651,
+          "main": true
+      },
+      "photoCount": 9,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971521272569",
+          "phone": "+97145587741",
+          "whatsapp": "971521272569",
+          "proxyMobile": "+971525157136",
+          "proxyPhone": "+97148723010",
+          "phoneNumbers": [
+              "+97145587741"
+          ],
+          "mobileNumbers": [
+              "+971521272569"
+          ]
+      },
+      "contactName": "Sahabzada Zabee Ullah",
+      "agency": {
+          "id": 829,
+          "objectID": 829,
+          "name": "AZCO Real Estate Brokers (LLC) - Lease JVC",
+          "name_l1": "أزكو للوساطة العقارية",
+          "externalID": "2734",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "16719",
+                  "authority": "RERA"
+              }
+          ],
+          "logo": {
+              "id": 96346843,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/96346843/1fb4f272c0f644f990bc5d49dc53c364"
+          },
+          "slug": "azco-real-estate-brokers--llc-lease-jvc-2734",
+          "slug_l1": "azco-real-estate-brokers--llc-lease-jvc-2734",
+          "tier": 1,
+          "roles": []
+      },
+      "hash": "22ba671",
+      "keywords": [
+          "حديقة",
+          "ارضي",
+          "mall",
+          "طابق ارضي",
+          "واسعة",
+          "ground",
+          "كبيرة",
+          "modern",
+          "حديثة",
+          "terrace",
+          "موقف سيارة",
+          "garden",
+          "ارضية",
+          "مول",
+          "parking",
+          "مودرن",
+          "ترس",
+          "spacious"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1641808335.648723,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1641811901.844707
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 748,
+      "randBoostScore_l1": 748,
+      "floorPlanID": null,
+      "furnishingStatus": "unfurnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 441,
+      "indyScore_l1": 441,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          178837858,
+          178837859,
+          178651305,
+          177875929,
+          177882886,
+          177882888,
+          178830541,
+          178577555,
+          177882891
+      ],
+      "hidePrice": false,
+      "objectID": "2894085",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "ARJAN-SAH-LINPB-STD",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "Suitable Price | Impressive Unit | Must See",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5629680",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "AZCO Real Estate Brokers (LLC) - Lease JVC",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "حديقة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ارضي",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "mall",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "طابق ارضي",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "واسعة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ground",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "كبيرة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "modern",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "حديثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "terrace",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "garden",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ارضية",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مودرن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ترس",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "spacious",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2462707,
+      "ownerID": 928846,
+      "userExternalID": "928846",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 25.036428,
+          "lng": 55.281552
+      },
+      "geography": {
+          "lat": 25.036428,
+          "lng": 55.281552
+      },
+      "purpose": "for-sale",
+      "price": 1760000,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": null,
+      "referenceNumber": "BST218116",
+      "permitNumber": "6589995520",
+      "title": "Type C | Great Investment | Brand New",
+      "title_l1": "تاون هاوس في كاسا فيفا سيرينا 3 غرف 1760000 درهم - 5187993",
+      "externalID": "5187993",
+      "slug": "type-c-great-investment-brand-new-5187993",
+      "slug_l1": "type-c-great-investment-brand-new-5187993",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 3534,
+              "level": 2,
+              "externalID": "8939",
+              "name": "Serena",
+              "name_l1": "سيرينا",
+              "slug": "/dubai/serena",
+              "slug_l1": "/dubai/serena"
+          },
+          {
+              "id": 3536,
+              "level": 3,
+              "externalID": "11222",
+              "name": "Casa Viva",
+              "name_l1": "كاسا فيفا",
+              "slug": "/dubai/serena/casa-viva",
+              "slug_l1": "/dubai/serena/casa-viva"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 8,
+              "level": 1,
+              "externalID": "16",
+              "name": "Townhouses",
+              "name_l1": "تاون هاوس",
+              "slug": "townhouses",
+              "slug_l1": "townhouses",
+              "nameSingular": "Townhouse",
+              "nameSingular_l1": "تاون هاوس"
+          }
+      ],
+      "createdAt": 1623069285,
+      "updatedAt": 1641890109,
+      "reactivatedAt": 1623069285,
+      "rooms": 3,
+      "baths": 3,
+      "area": 186.2705952,
+      "score": 100,
+      "score_l1": 62,
+      "coverPhoto": {
+          "id": 172912622,
+          "externalID": "115205659",
+          "title": "Type C | Great Investment | Brand New",
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/172912622/64f717be658f440989f3f26c1cd946f1",
+          "orderIndex": 0,
+          "nimaScore": 8.124413192825159,
+          "main": true
+      },
+      "photoCount": 14,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971585197914",
+          "phone": "+97148719200",
+          "whatsapp": "971585197914",
+          "proxyMobile": "+971523017654",
+          "phoneNumbers": [
+              "+97148719200"
+          ],
+          "mobileNumbers": [
+              "+971585197914"
+          ]
+      },
+      "contactName": "Garvin Mark Samaroo",
+      "agency": {
+          "id": 39,
+          "objectID": 39,
+          "name": "D AND B Properties",
+          "name_l1": "D AND B Properties",
+          "externalID": "7647",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "16576",
+                  "authority": "RERA"
+              },
+              {
+                  "number": "736292",
+                  "authority": "DED"
+              }
+          ],
+          "logo": {
+              "id": 27679904,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/27679904/f28913cd002d4a28801f36499f564027"
+          },
+          "slug": "d-and-b-properties-7647",
+          "slug_l1": "d-and-b-properties-7647",
+          "tier": 1
+      },
+      "hash": "e446e27",
+      "keywords": [
+          "new",
+          "خادمة",
+          "3 غرف جديدة",
+          "ايجار جديد",
+          "ساكن اول",
+          "جديدة",
+          "brand new",
+          "استثمار",
+          "عوائل",
+          "اول ساكن",
+          "detached",
+          "ثلاثه غرفة",
+          "3 غرف",
+          "مستقل",
+          "للعوائل",
+          "3 bedroom",
+          "investment",
+          "جديدة اول ساكن",
+          "maid",
+          "family",
+          "ثلاث غرف"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1640698474.651841,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1640762093.027941
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 722,
+      "randBoostScore_l1": 722,
+      "floorPlanID": null,
+      "furnishingStatus": null,
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 38,
+      "indyScore_l1": 38,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+          172912622,
+          172912624,
+          172912627,
+          172912631,
+          172912634,
+          172912637,
+          172912641,
+          172912645,
+          172912650,
+          172912654,
+          172912658,
+          172912660,
+          172912662,
+          172912665
+      ],
+      "hidePrice": false,
+      "objectID": "2462707",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "BST218116",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "Type C | Great Investment | Brand New",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5187993",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "D AND B Properties",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "خادمة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 غرف جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ايجار جديد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ساكن اول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "brand new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "استثمار",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "عوائل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "detached",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ثلاثه غرفة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 غرف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مستقل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "للعوائل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 bedroom",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "investment",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "maid",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "family",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ثلاث غرف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  },
+  {
+      "id": 2892915,
+      "ownerID": 1142145,
+      "userExternalID": "1142145",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+          "lat": 24.860641325298,
+          "lng": 55.138900543005
+      },
+      "geography": {
+          "lat": 24.860641325298,
+          "lng": 55.138900543005
+      },
+      "purpose": "for-sale",
+      "price": 3000000,
+      "product": "superhot",
+      "productLabel": "default",
+      "productScore": 0,
+      "rentFrequency": null,
+      "referenceNumber": "BBP-S-1357",
+      "permitNumber": "6589210208",
+      "title": "Independent Villa| Biggest Plot | Pool & Park",
+      "title_l1": "فیلا في جولف لينكس إعمار الجنوب دبي الجنوب 3 غرف 3000000 درهم - 5628441",
+      "externalID": "5628441",
+      "slug": "independent-villa-biggest-plot-pool-amp-park-5628441",
+      "slug_l1": "independent-villa-biggest-plot-pool-amp-park-5628441",
+      "location": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "5001",
+              "name": "UAE",
+              "name_l1": "الإمارات",
+              "slug": "/uae",
+              "slug_l1": "/uae"
+          },
+          {
+              "id": 2,
+              "level": 1,
+              "externalID": "5002",
+              "name": "Dubai",
+              "name_l1": "دبي",
+              "slug": "/dubai",
+              "slug_l1": "/dubai"
+          },
+          {
+              "id": 3355,
+              "level": 2,
+              "externalID": "8881",
+              "name": "Dubai South",
+              "name_l1": "دبي الجنوب",
+              "slug": "/dubai/dubai-south",
+              "slug_l1": "/dubai/dubai-south"
+          },
+          {
+              "id": 3358,
+              "level": 3,
+              "externalID": "9197",
+              "name": "EMAAR South",
+              "name_l1": "إعمار الجنوب",
+              "slug": "/dubai/dubai-south/emaar-south",
+              "slug_l1": "/dubai/dubai-south/emaar-south"
+          },
+          {
+              "id": 3359,
+              "level": 4,
+              "externalID": "11285",
+              "name": "Golf Links",
+              "name_l1": "جولف لينكس",
+              "slug": "/dubai/dubai-south/emaar-south/golf-links",
+              "slug_l1": "/dubai/dubai-south/emaar-south/golf-links"
+          }
+      ],
+      "category": [
+          {
+              "id": 1,
+              "level": 0,
+              "externalID": "1",
+              "name": "Residential",
+              "name_l1": "سكني",
+              "slug": "residential",
+              "slug_l1": "residential",
+              "nameSingular": "Residential",
+              "nameSingular_l1": "سكني"
+          },
+          {
+              "id": 5,
+              "level": 1,
+              "externalID": "3",
+              "name": "Villas",
+              "name_l1": "فلل",
+              "slug": "villas",
+              "slug_l1": "villas",
+              "nameSingular": "Villa",
+              "nameSingular_l1": "فیلا"
+          }
+      ],
+      "createdAt": 1641316544,
+      "updatedAt": 1642840779,
+      "reactivatedAt": 1641316544,
+      "rooms": 3,
+      "baths": 4,
+      "area": 260.50012416,
+      "score": 100,
+      "score_l1": 65,
+      "coverPhoto": {
+          "id": 177869288,
+          "externalID": "116345789",
+          "title": null,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/177869288/b87bd99fcdb3469f9881c75a5cfd0eff",
+          "orderIndex": 0,
+          "nimaScore": 5.998374132117614,
+          "main": true
+      },
+      "photoCount": 32,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+          "mobile": "+971588902255",
+          "whatsapp": "971588902255",
+          "proxyMobile": "+971523086297",
+          "mobileNumbers": [
+              "+971588902255"
+          ]
+      },
+      "contactName": "BlackBrick. MP",
+      "agency": {
+          "id": 29615903,
+          "objectID": 29615903,
+          "name": "Black Brick Property LLC",
+          "name_l1": "بلاك بريك العقارية ذ",
+          "externalID": "10845",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+              {
+                  "number": "947900",
+                  "authority": "DED"
+              },
+              {
+                  "number": "26387",
+                  "authority": "RERA"
+              }
+          ],
+          "logo": {
+              "id": 148928158,
+              "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/148928158/818703171679434b8e68593a7e03860a"
+          },
+          "slug": "black-brick-property-llc-10845",
+          "slug_l1": "black-brick-property-llc-10845",
+          "tier": 3,
+          "roles": []
+      },
+      "hash": "5c72544",
+      "keywords": [
+          "اول ساكن",
+          "مطبخ مفتوح",
+          "3 غرف",
+          "مستقلة",
+          "open kitchen",
+          "3 غرف جديدة",
+          "parking",
+          "شيرنج",
+          "ثلاث غرف",
+          "shared",
+          "مطبخ",
+          "جديدة اول ساكن",
+          "جاهزة",
+          "maid",
+          "modern",
+          "new",
+          "ready",
+          "ساكن اول",
+          "ايجار جديد",
+          "balcony",
+          "independent",
+          "مودرن",
+          "عوائل",
+          "kitchen",
+          "3 bedroom",
+          "brand new",
+          "خادمة",
+          "للعوائل",
+          "بلكونة",
+          "ثلاثه غرفة",
+          "مطار",
+          "airport",
+          "family",
+          "موقف سيارة",
+          "حديثة",
+          "مشتركة",
+          "جديدة"
+      ],
+      "isVerified": true,
+      "verification": {
+          "updatedAt": 1641978259.254048,
+          "eligible": true,
+          "status": "verified",
+          "verifiedAt": 1642080725.141443
+      },
+      "verifiedScore": 0,
+      "completionStatus": "completed",
+      "randBoostScore": 720,
+      "randBoostScore_l1": 720,
+      "floorPlanID": 34562,
+      "furnishingStatus": "unfurnished",
+      "extraFields": {},
+      "type": "property",
+      "cityLevelScore": 1,
+      "indyScore": 414,
+      "indyScore_l1": 414,
+      "hasMatchingFloorPlans": true,
+      "photoIDs": [
+          177869288,
+          178666477,
+          177773330,
+          180488291,
+          178666481,
+          177773349,
+          178680011,
+          177770907,
+          177773372,
+          177770909,
+          177770933,
+          178666492,
+          178666495,
+          177773431,
+          177773443,
+          178613962,
+          178666498,
+          177773472,
+          177773478,
+          178666499,
+          178666501,
+          178666502,
+          178666504,
+          177773514,
+          177773520,
+          178666505,
+          177773539,
+          178666506,
+          178666507,
+          178666508,
+          178838960,
+          177773568
+      ],
+      "hidePrice": false,
+      "objectID": "2892915",
+      "_highlightResult": {
+          "referenceNumber": {
+              "value": "BBP-S-1357",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "title": {
+              "value": "Independent Villa| Biggest Plot | Pool & Park",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "externalID": {
+              "value": "5628441",
+              "matchLevel": "none",
+              "matchedWords": []
+          },
+          "agency": {
+              "name": {
+                  "value": "Black Brick Property LLC",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          },
+          "keywords": [
+              {
+                  "value": "اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ مفتوح",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 غرف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مستقلة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "open kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 غرف جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "parking",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "شيرنج",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ثلاث غرف",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "shared",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطبخ",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة اول ساكن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جاهزة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "maid",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "modern",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ready",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ساكن اول",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ايجار جديد",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "balcony",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "independent",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مودرن",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "عوائل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "kitchen",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "3 bedroom",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "brand new",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "خادمة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "للعوائل",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "بلكونة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "ثلاثه غرفة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مطار",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "airport",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "family",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "موقف سيارة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "حديثة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "مشتركة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              },
+              {
+                  "value": "جديدة",
+                  "matchLevel": "none",
+                  "matchedWords": []
+              }
+          ]
+      }
+  }
+]
