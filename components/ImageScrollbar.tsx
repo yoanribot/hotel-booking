@@ -41,8 +41,6 @@ interface Props {
 }
 
 export default function ImageScrollbar({ data }: Props) {
-  console.log({ data });
-
   return (
     <ScrollMenu LeftArrow={LeftArrow} RightArrow={RightArrow}>
       {data.map((item) => (
